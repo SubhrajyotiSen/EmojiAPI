@@ -4275,7 +4275,7 @@
     "character": "⁉️",
     "category": "symbols"
   },
- {   "100",
+ {  "name": "100",
     "keywords": ["score", "perfect", "numbers", "century", "exam", "quiz", "test", "pass", "hundred"],
     "character": "💯",
     "category": "symbols"
