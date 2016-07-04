@@ -5185,142 +5185,142 @@
     "character": "🕧",
     "category": "symbols"
   },
- {  "name": "af",
+ {  "name": "afghanistan",
     "keywords": ["afghanistan", "flag", "nation", "country", "banner"],
     "character": "🇦🇫",
     "category": "flags"
   },
- {  "name": "ax",
+ {  "name": "aland",
     "keywords": ["Åland", "islands", "flag", "nation", "country", "banner"],
     "character": "🇦🇽",
     "category": "flags"
   },
- {  "name": "al",
+ {  "name": "albania",
     "keywords": ["albania", "flag", "nation", "country", "banner"],
     "character": "🇦🇱",
     "category": "flags"
   },
- {  "name": "dz",
+ {  "name": "algeria",
     "keywords": ["algeria", "flag", "nation", "country", "banner"],
     "character": "🇩🇿",
     "category": "flags"
   },
- {  "name": "as",
+ {  "name": "america",
     "keywords": ["american", "samoa", "flag", "nation", "country", "banner"],
     "character": "🇦🇸",
     "category": "flags"
   },
- {  "name": "ad",
+ {  "name": "andorra",
     "keywords": ["andorra", "flag", "nation", "country", "banner"],
     "character": "🇦🇩",
     "category": "flags"
   },
- {  "name": "ao",
+ {  "name": "angola",
     "keywords": ["angola", "flag", "nation", "country", "banner"],
     "character": "🇦🇴",
     "category": "flags"
   },
- {  "name": "ai",
+ {  "name": "anguilla",
     "keywords": ["anguilla", "flag", "nation", "country", "banner"],
     "character": "🇦🇮",
     "category": "flags"
   },
- {  "name": "aq",
+ {  "name": "antarctica",
     "keywords": ["antarctica", "flag", "nation", "country", "banner"],
     "character": "🇦🇶",
     "category": "flags"
   },
- {  "name": "ag",
+ {  "name": "antigua",
     "keywords": ["antigua", "barbuda", "flag", "nation", "country", "banner"],
     "character": "🇦🇬",
     "category": "flags"
   },
- {  "name": "ar",
+ {  "name": "argentina",
     "keywords": ["argentina", "flag", "nation", "country", "banner"],
     "character": "🇦🇷",
     "category": "flags"
   },
- {  "name": "am",
+ {  "name": "armenia",
     "keywords": ["armenia", "flag", "nation", "country", "banner"],
     "character": "🇦🇲",
     "category": "flags"
   },
- {  "name": "aw",
+ {  "name": "aruba",
     "keywords": ["aruba", "flag", "nation", "country", "banner"],
     "character": "🇦🇼",
     "category": "flags"
   },
- {  "name": "au",
+ {  "name": "australia",
     "keywords": ["australia", "flag", "nation", "country", "banner"],
     "character": "🇦🇺",
     "category": "flags"
   },
- {  "name": "at",
+ {  "name": "austria",
     "keywords": ["austria", "flag", "nation", "country", "banner"],
     "character": "🇦🇹",
     "category": "flags"
   },
- {  "name": "az",
+ {  "name": "azerbaijan",
     "keywords": ["azerbaijan", "flag", "nation", "country", "banner"],
     "character": "🇦🇿",
     "category": "flags"
   },
- {  "name": "bs",
+ {  "name": "bahamas",
     "keywords": ["bahamas", "flag", "nation", "country", "banner"],
     "character": "🇧🇸",
     "category": "flags"
   },
- {  "name": "bh",
+ {  "name": "bahrain",
     "keywords": ["bahrain", "flag", "nation", "country", "banner"],
     "character": "🇧🇭",
     "category": "flags"
   },
- {  "name": "bd",
+ {  "name": "bangladesh",
     "keywords": ["bangladesh", "flag", "nation", "country", "banner"],
     "character": "🇧🇩",
     "category": "flags"
   },
- {  "name": "bb",
+ {  "name": "barbados",
     "keywords": ["barbados", "flag", "nation", "country", "banner"],
     "character": "🇧🇧",
     "category": "flags"
   },
- {  "name": "by",
+ {  "name": "belarus",
     "keywords": ["belarus", "flag", "nation", "country", "banner"],
     "character": "🇧🇾",
     "category": "flags"
   },
- {  "name": "be",
+ {  "name": "belgium",
     "keywords": ["belgium", "flag", "nation", "country", "banner"],
     "character": "🇧🇪",
     "category": "flags"
   },
- {  "name": "bz",
+ {  "name": "belize",
     "keywords": ["belize", "flag", "nation", "country", "banner"],
     "character": "🇧🇿",
     "category": "flags"
   },
- {  "name": "bj",
+ {  "name": "benin",
     "keywords": ["benin", "flag", "nation", "country", "banner"],
     "character": "🇧🇯",
     "category": "flags"
   },
- {  "name": "bm",
+ {  "name": "bermuda",
     "keywords": ["bermuda", "flag", "nation", "country", "banner"],
     "character": "🇧🇲",
     "category": "flags"
   },
- {  "name": "bt",
+ {  "name": "bhutan",
     "keywords": ["bhutan", "flag", "nation", "country", "banner"],
     "character": "🇧🇹",
     "category": "flags"
   },
- {  "name": "bo",
+ {  "name": "bolivia",
     "keywords": ["bolivia", "flag", "nation", "country", "banner"],
     "character": "🇧🇴",
     "category": "flags"
   },
- {  "name": "bq",
+ {  "name": "bonaire",
     "keywords": ["bonaire", "flag", "nation", "country", "banner"],
     "character": "🇧🇶",
     "category": "flags"
@@ -5430,7 +5430,7 @@
     "character": "🇨🇨",
     "category": "flags"
   },
- {  "name": "co",
+ {  "name": "colombia",
     "keywords": ["colombia", "flag", "nation", "country", "banner"],
     "character": "🇨🇴",
     "category": "flags"
@@ -5500,7 +5500,7 @@
     "character": "🇩🇲",
     "category": "flags"
   },
- {  "name": "do",
+ {  "name": "dominican",
     "keywords": ["dominican", "republic", "flag", "nation", "country", "banner"],
     "character": "🇩🇴",
     "category": "flags"
@@ -5685,12 +5685,12 @@
     "character": "🇭🇺",
     "category": "flags"
   },
- {  "name": "is",
+ {  "name": "iceland",
     "keywords": ["iceland", "flag", "nation", "country", "banner"],
     "character": "🇮🇸",
     "category": "flags"
   },
- {  "name": "in",
+ {  "name": "india",
     "keywords": ["india", "flag", "nation", "country", "banner"],
     "character": "🇮🇳",
     "category": "flags"
@@ -5725,7 +5725,7 @@
     "character": "🇮🇱",
     "category": "flags"
   },
- {  "name": "it",
+ {  "name": "italy",
     "keywords": ["italy", "flag", "nation", "country", "banner"],
     "character": "🇮🇹",
     "category": "flags"
@@ -5920,7 +5920,7 @@
     "character": "🇲🇳",
     "category": "flags"
   },
- {  "name": "me",
+ {  "name": "montenegro",
     "keywords": ["montenegro", "flag", "nation", "country", "banner"],
     "character": "🇲🇪",
     "category": "flags"
@@ -6010,7 +6010,7 @@
     "character": "🇰🇵",
     "category": "flags"
   },
- {  "name": "no",
+ {  "name": "nor",
     "keywords": ["norway", "flag", "nation", "country", "banner"],
     "character": "🇳🇴",
     "category": "flags"
@@ -6125,7 +6125,7 @@
     "character": "🇱🇨",
     "category": "flags"
   },
- {  "name": "pm",
+ {  "name": "miquelon",
     "keywords": ["saint", "pierre", "miquelon", "flag", "nation", "country", "banner"],
     "character": "🇵🇲",
     "category": "flags"
@@ -6200,7 +6200,7 @@
     "character": "🇸🇧",
     "category": "flags"
   },
- {  "name": "so",
+ {  "name": "somalia",
     "keywords": ["somalia", "flag", "nation", "country", "banner"],
     "character": "🇸🇴",
     "category": "flags"
@@ -6255,7 +6255,7 @@
     "character": "🇸🇪",
     "category": "flags"
   },
- {  "name": "ch",
+ {  "name": "switzerland",
     "keywords": ["switzerland", "flag", "nation", "country", "banner"],
     "character": "🇨🇭",
     "category": "flags"
@@ -6300,7 +6300,7 @@
     "character": "🇹🇰",
     "category": "flags"
   },
- {  "name": "to",
+ {  "name": "tonga",
     "keywords": ["tonga", "flag", "nation", "country", "banner"],
     "character": "🇹🇴",
     "category": "flags"
@@ -6355,7 +6355,7 @@
     "character": "🇬🇧",
     "category": "flags"
   },
- {  "name": "us",
+ {  "name": "america",
     "keywords": ["united", "states", "america", "flag", "nation", "country", "banner"],
     "character": "🇺🇸",
     "category": "flags"
